@@ -6,7 +6,7 @@ I am software engineer with 4 years of experience with the Python programming la
 
 ## 💡 About me
 
-- 🚀 I’ve built APIs, dynamic frontends, and database-driven apps.
+- 🚀 I’ve built APIs, AI projects, and database-driven apps.
 - 📚 Currently improving in ML and Typescript.
 - 🤝 Open to collaborating on meaningful projects.
 
