@@ -7,7 +7,7 @@ I am software engineer with 4 years of experience with the Python programming la
 ## 💡 About me
 
 - 🚀 I’ve built APIs, AI projects, and database-driven apps.
-- 📚 Currently improving in ML and Typescript.
+- 📚 Currently improving in ML and AWS.
 - 🤝 Open to collaborating on meaningful projects.
 
 ---
@@ -24,8 +24,8 @@ Scikit-learn, TensorFlow, Pytorch
 **Databases:**  
 Mongo DB, PostgreSQL
 
-**Tools & DevOps:**  
-Git, GitHub, Docker, Postman, 
+**DevOps:**  
+AWS, Serverless Framework, Git, GitHub, Docker
 
 ---
 
