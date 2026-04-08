@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Jordan Montenegro
 
-I am software engineer with 4 years of experience with the Python programming language. My main fields are Artificial Intelligence and Machine Learning. I have also worked on web development projects, cloud implementations, and scientific research, so I will be happy to contribute in any domain that challenges me.  
+I am software engineer experienced with the Python programming language. My main fields are Artificial Intelligence and Machine Learning. I have also worked on web development projects, cloud implementations, and scientific research, so I will be happy to contribute in any domain that challenges me.  
 
 ---
 
 ## 💡 About me
 
-- 🚀 I’ve built APIs, AI projects, and database-driven apps.
-- 📚 Currently improving in ML and AWS.
+- 🚀 I’ve built APIs, Predictive AI projects, and database-driven apps.
+- 📚 Currently diving into full-stack development assisted with AI.
 - 🤝 Open to collaborating on meaningful projects.
 
 ---
@@ -18,6 +18,9 @@ I am software engineer with 4 years of experience with the Python programming la
 **Backend:**  
 Python (FastApi, Flask)
 
+**Frontend:**  
+NextJs
+
 **Artificial Intelligence:**  
 Scikit-learn, TensorFlow, Pytorch
 
@@ -25,11 +28,11 @@ Scikit-learn, TensorFlow, Pytorch
 Mongo DB, PostgreSQL
 
 **DevOps:**  
-AWS, Serverless Framework, Git, GitHub, Docker
+AWS, Serverless Framework, Git, Docker
 
 ---
 
-## 🌟 Projects
+## 🌟 Some Projects
 
 - 🔧 [Word Document Creator](https://github.com/Jorel22/wordDocumentCreator)  
   A desktop app built with python and tkinter.
